@@ -10,4 +10,4 @@ connection.py deals with finding out what the most memory intensive process is a
 
 speaker.py deals with the Spotify API
 
-cred.py contains the creditials for the Spotify API
+cred.py contains the credentials for the Spotify API
