@@ -1,7 +1,8 @@
 # AMP
 Adaptive Music Player for Spotify
 
-I started this project basically knowing nothing except the basics. I also don't know how to use GitHub as of writing this. Basically, it is gonna look weird
+I started this project basically knowing nothing except the basics. I also don't know how to use GitHub as of writing this. Basically, it is gonna look ugly.
+
 
 main.py is file that is run
 
