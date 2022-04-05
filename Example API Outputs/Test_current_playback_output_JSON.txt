@@ -1,11 +1,11 @@
 {
 	'device': 
 		{
-			'id': '7eb720dbc29dea2aaed721a0791c117ac519d0fb', 
+			'id': 'not including this for obvious reasons', 
 			'is_active': True, 
 			'is_private_session': False, 
 			'is_restricted': False, 
-			'name': 'DESKTOP-VIH0E4I', 
+			'name': 'DESKTOP-SomethingOrOther', 
 			'type': 'Computer', 
 			'volume_percent': 74
 		}, 
@@ -14,10 +14,10 @@
 	'timestamp': 1648563031755, 
 	'context': 
 		{
-			'external_urls': {'spotify': 'https://open.spotify.com/playlist/6XqgQZq8aPNFUnHDV0vtft'}, 
-			'href': 'https://api.spotify.com/v1/playlists/6XqgQZq8aPNFUnHDV0vtft', 
+			'external_urls': {'spotify': 'https://open.spotify.com/playlist/UriGoesHere'}, 
+			'href': 'https://api.spotify.com/v1/playlists/UriGoesHere', 
 			'type': 'playlist', 
-			'uri': 'spotify:playlist:6XqgQZq8aPNFUnHDV0vtft'
+			'uri': 'spotify:playlist:UriGoesHere'
 		}, 
 	'progress_ms': 153562, 
 	'item': 
