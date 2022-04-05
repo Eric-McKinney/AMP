@@ -5,7 +5,7 @@ The idea of this project is that playing music appropriate for a user's activity
 
 There are also quite a few interesting inconsistencies across the code as I was learning during the creation of this project. For example, using dict.get("something") instead of dict["something"] in connection.py, but switching in speaker.py or the use of f strings which I learned of halfway through the project.
 
-|File|Description|
+|File/Folder|Description|
 |----|-----------|
 |main.py|The main script|
 |connection.py|Assigning an intensity from 0 to 5 to user's current activiy|
