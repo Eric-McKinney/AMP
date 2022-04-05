@@ -1,13 +1,13 @@
 {
-	'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v/playlists?offset=0&limit=50', 
+	'href': 'https://api.spotify.com/v1/users/YourSpotifyID/playlists?offset=0&limit=50', 
 	'items': 
 		[
 			{
 				'collaborative': False, 
-				'description': 'Sugar, spice, and everything nice. That&#x27;s how you make this playlist.', 
-				'external_urls': {'spotify': 'https://open.spotify.com/playlist/4Y9tyKx95nkvn2KtZkyxNd'}, 
-				'href': 'https://api.spotify.com/v1/playlists/4Y9tyKx95nkvn2KtZkyxNd', 
-				'id': '4Y9tyKx95nkvn2KtZkyxNd', 
+				'description': 'Playlist Description', 
+				'external_urls': {'spotify': 'https://open.spotify.com/playlist/PlaylistID'}, 
+				'href': 'https://api.spotify.com/v1/playlists/PlaylistID', 
+				'id': 'ID of Playlist', 
 				'images': [
 						{
 							'height': None, 
@@ -15,33 +15,33 @@
 							'width': None
 						}
 					], 
-				'name': 'Sugar, Spice, And Everything Nice', 
+				'name': 'PLaylist Name', 
 				'owner': {
 						'display_name': 'Eric', 
-						'external_urls': {'spotify': 'https://open.spotify.com/user/2iing759xy3c1r8ng4b5zag2v'}, 
-						'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v', 
-						'id': '2iing759xy3c1r8ng4b5zag2v', 
+						'external_urls': {'spotify': 'https://open.spotify.com/user/UserID'}, 
+						'href': 'https://api.spotify.com/v1/users/UserID', 
+						'id': 'UserID', 
 						'type': 'user', 
-						'uri': 'spotify:user:2iing759xy3c1r8ng4b5zag2v'
+						'uri': 'spotify:user:UserID'
 					}, 
 				'primary_color': None, 
 				'public': True, 
-				'snapshot_id': 'NTcwLGYwZGIxYjI4YzRmY2ZmODk1NWYwZWM1YzBmM2RjMDM5ZjBmNjM2MWI=', 
+				'snapshot_id': 'Snapshot id would be here', 
 				'tracks': 
 					{
-						'href': 'https://api.spotify.com/v1/playlists/4Y9tyKx95nkvn2KtZkyxNd/tracks', 
+						'href': 'https://api.spotify.com/v1/playlists/PlaylistID/tracks', 
 						'total': 512
 					}, 
 				'type': 'playlist', 
-				'uri': 'spotify:playlist:4Y9tyKx95nkvn2KtZkyxNd'
+				'uri': 'spotify:playlist:PlaylistID'
 			}, 
 		
 			{
 				'collaborative': False, 
-				'description': 'Music videos, champion themes, etc. from League of Legends that I like', 
-				'external_urls': {'spotify': 'https://open.spotify.com/playlist/71FGFZX6TEhgCOEHW96rg4'}, 
-				'href': 'https://api.spotify.com/v1/playlists/71FGFZX6TEhgCOEHW96rg4', 
-				'id': '71FGFZX6TEhgCOEHW96rg4', 
+				'description': 'Playlist Description', 
+				'external_urls': {'spotify': 'https://open.spotify.com/playlist/PLaylistID'}, 
+				'href': 'https://api.spotify.com/v1/playlists/PlaylistID', 
+				'id': 'PlaylistID', 
 				'images': 
 					[
 						{
@@ -50,28 +50,27 @@
 							'width': None
 						}
 					], 
-				'name': 'League Soundtrack', 
+				'name': 'Playlist Name', 
 				'owner': {
 						'display_name': 'Eric', 
-						'external_urls': {'spotify': 'https://open.spotify.com/user/2iing759xy3c1r8ng4b5zag2v'}, 
-						'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v', 
-						'id': '2iing759xy3c1r8ng4b5zag2v', 
+						'external_urls': {'spotify': 'https://open.spotify.com/user/UserID'}, 
+						'href': 'https://api.spotify.com/v1/users/UserID', 
+						'id': 'UserID', 
 						'type': 'user', 
-						'uri': 'spotify:user:2iing759xy3c1r8ng4b5zag2v'}, 
+						'uri': 'spotify:user:UserID'}, 
 						'primary_color': None, 
 						'public': True, 
-						'snapshot_id': 'MTc4LGIwY2Y5NzcwNTQ1ZWJhYjkyMTZmNTAyMTI2MWZhZGYzNmE1ZTZhNTA=', 
-						'tracks': {'href': 'https://api.spotify.com/v1/playlists/71FGFZX6TEhgCOEHW96rg4/tracks', 'total': 168}, 
+						'snapshot_id': 'Again removing what was here for privacy', 
+						'tracks': {'href': 'https://api.spotify.com/v1/playlists/PLaylistID/tracks', 'total': 168}, 
 						'type': 'playlist', 
-						'uri': 'spotify:playlist:71FGFZX6TEhgCOEHW96rg4'
+						'uri': 'spotify:playlist:PlaylistID'
 			}, 
 			{
 				'collaborative': False, 
-				'description': 'Songs from the spring musical Momma Mia (March 2020) by Magruder Drama and Music in the order they 
-						appear in the musical', 
-				'external_urls': {'spotify': 'https://open.spotify.com/playlist/5VHeubHVkquv9E24gjJ8YP'}, 
-				'href': 'https://api.spotify.com/v1/playlists/5VHeubHVkquv9E24gjJ8YP', 
-				'id': '5VHeubHVkquv9E24gjJ8YP', 
+				'description': 'Playlist description', 
+				'external_urls': {'spotify': 'https://open.spotify.com/playlist/PlaylistID'}, 
+				'href': 'https://api.spotify.com/v1/playlists/PlaylistID', 
+				'id': 'PlaylistID', 
 				'images': 
 					[
 						{
@@ -96,26 +95,26 @@
 							'width': 60
 						}
 					], 
-				'name': 'Mamma Mia Soundtrack', 
+				'name': 'Playlist Name', 
 				'owner': 
 					{
 						'display_name': 'Eric', 
-						'external_urls': {'spotify': 'https://open.spotify.com/user/2iing759xy3c1r8ng4b5zag2v'}, 
-						'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v', 
-						'id': '2iing759xy3c1r8ng4b5zag2v', 
+						'external_urls': {'spotify': 'https://open.spotify.com/user/UserID'}, 
+						'href': 'https://api.spotify.com/v1/users/UserID', 
+						'id': 'UserID', 
 						'type': 'user', 
-						'uri': 'spotify:user:2iing759xy3c1r8ng4b5zag2v'
+						'uri': 'spotify:user:UserID'
 					}, 
 				'primary_color': None, 
 				'public': True, 
-				'snapshot_id': 'NDksYzVlYmU4ZDk5NThmYmZiYTNhM2Y5ZmM4MTViNWRhNDMyNWEyNzE3MQ==', 
+				'snapshot_id': 'snapshot id was here', 
 				'tracks': 
 					{
-						'href': 'https://api.spotify.com/v1/playlists/5VHeubHVkquv9E24gjJ8YP/tracks', 
+						'href': 'https://api.spotify.com/v1/playlists/PlaylistID/tracks', 
 						'total': 23
 					}, 
 				'type': 'playlist', 
-				'uri': 'spotify:playlist:5VHeubHVkquv9E24gjJ8YP'
+				'uri': 'spotify:playlist:PlaylistID'
 			}
 		], 
 	'limit': 50, 
