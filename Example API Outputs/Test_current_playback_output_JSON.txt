@@ -14,10 +14,10 @@
 	'timestamp': 1648563031755, 
 	'context': 
 		{
-			'external_urls': {'spotify': 'https://open.spotify.com/playlist/UriGoesHere'}, 
-			'href': 'https://api.spotify.com/v1/playlists/UriGoesHere', 
+			'external_urls': {'spotify': 'https://open.spotify.com/playlist/PlaylistID'}, 
+			'href': 'https://api.spotify.com/v1/playlists/PlaylistID', 
 			'type': 'playlist', 
-			'uri': 'spotify:playlist:UriGoesHere'
+			'uri': 'spotify:playlist:PlaylistID'
 		}, 
 	'progress_ms': 153562, 
 	'item': 
