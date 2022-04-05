@@ -1,16 +1,16 @@
 {
-	'href': 'https://api.spotify.com/v1/playlists/7o62e4JXGke8LEhIR79Vhn/tracks?offset=0&limit=100&additional_types=track%2Cepisode', 
+	'href': 'https://api.spotify.com/v1/playlists/PlaylistID/tracks?offset=0&limit=100&additional_types=track%2Cepisode', 
 	'items': 
 		[
 			{
 				'added_at': '2022-03-11T13:56:24Z', 
 				'added_by': 
 					{
-						'external_urls': {'spotify': 'https://open.spotify.com/user/2iing759xy3c1r8ng4b5zag2v'}, 
-						'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v', 
-						'id': '2iing759xy3c1r8ng4b5zag2v', 
+						'external_urls': {'spotify': 'https://open.spotify.com/user/UserID'}, 
+						'href': 'https://api.spotify.com/v1/users/UserID', 
+						'id': 'UserID', 
 						'type': 'user', 
-						'uri': 'spotify:user:2iing759xy3c1r8ng4b5zag2v'
+						'uri': 'spotify:user:UserID'
 					}, 
 				'is_local': False, 
 				'primary_color': None, 
@@ -133,11 +133,11 @@
 				'added_at': '2022-03-11T13:56:33Z', 
 				'added_by': 
 					{
-						'external_urls': {'spotify': 'https://open.spotify.com/user/2iing759xy3c1r8ng4b5zag2v'}, 
-						'href': 'https://api.spotify.com/v1/users/2iing759xy3c1r8ng4b5zag2v', 
-						'id': '2iing759xy3c1r8ng4b5zag2v', 
+						'external_urls': {'spotify': 'https://open.spotify.com/user/UserID'}, 
+						'href': 'https://api.spotify.com/v1/users/UserID', 
+						'id': 'UserID', 
 						'type': 'user', 
-						'uri': 'spotify:user:2iing759xy3c1r8ng4b5zag2v'
+						'uri': 'spotify:user:UserID'
 					}, 
 				'is_local': False, 
 				'primary_color': None, 
