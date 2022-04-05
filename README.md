@@ -8,5 +8,6 @@ I started this project basically knowing nothing except the basics. I also don't
 |main.py|The main script|
 |connection.py|Assigning an intensity from 0 to 5 to user's current activiy|
 |speaker.py|Using assigned intensity to create a playlist in user's Spotify account|
-|cred.py|Spotify API credentials (obviously didn't include my own credentials)|
+|cred.py|Spotify API credentials (obviously didn't include my credentials)|
 |preferences|Contains names of programs with intensities assigned to them|
+|Example API Outputs|Some outputs from the Spotify API, sans personal information, made pretty my yours truly|
