@@ -8,13 +8,7 @@ main.py is file that is run
 
 |File|Description|
 |----------|----------|
-|main.py|WIP|
-|connection.py|WIP|
-|speaker.py|WIP|
-|cred.py|WIP|
-
-connection.py deals with finding out what the most memory intensive process is and assigning it a number from 0 to 5 representing the intensity
-
-speaker.py deals with the Spotify API
-
-cred.py contains the credentials for the Spotify API
+|main.py|The main script|
+|connection.py|Assigning an intensity from 0 to 5 to user's current activiy|
+|speaker.py|Using assigned intensity to create a playlist in user's Spotify account|
+|cred.py|Spotify API credentials (obviously didn't include my own credentials)|
